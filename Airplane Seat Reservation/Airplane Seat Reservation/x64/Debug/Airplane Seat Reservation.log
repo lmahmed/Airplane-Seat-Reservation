@@ -1,0 +1,6 @@
+﻿  Plane Methods.cpp
+C:\Users\Latif Ahmed\Documents\GitHub\Airplane-Seat-Reservation\Airplane Seat Reservation\Airplane Seat Reservation\Plane Methods.cpp(59,6): warning C4101: 'row': unreferenced local variable
+C:\Users\Latif Ahmed\Documents\GitHub\Airplane-Seat-Reservation\Airplane Seat Reservation\Airplane Seat Reservation\Plane Methods.cpp(59,11): warning C4101: 'collumn': unreferenced local variable
+C:\Users\Latif Ahmed\Documents\GitHub\Airplane-Seat-Reservation\Airplane Seat Reservation\Airplane Seat Reservation\Plane Methods.cpp(95,6): warning C4101: 'row': unreferenced local variable
+C:\Users\Latif Ahmed\Documents\GitHub\Airplane-Seat-Reservation\Airplane Seat Reservation\Airplane Seat Reservation\Plane Methods.cpp(95,11): warning C4101: 'collumn': unreferenced local variable
+  Airplane Seat Reservation.vcxproj -> C:\Users\Latif Ahmed\Documents\GitHub\Airplane-Seat-Reservation\Airplane Seat Reservation\x64\Debug\Airplane Seat Reservation.exe
